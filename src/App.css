@@ -1,0 +1,19 @@
+.calculater-container {position: absolute;top: 40%;left: 50%;background: aquamarine;}
+#clear {
+    width: 50px;
+    position: absolute;
+    top: 1px;
+    left: 97px;
+}
+.one , .teo, .three, .four, .five, .six, .seven, .eigth, .nine, .zero , .dot{
+    width: 35px;
+}
+
+
+
+.divide , .minus, .add , .mul{
+    width: 42px;
+}
+#result {
+    width: 36px;
+}
